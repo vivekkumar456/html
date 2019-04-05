@@ -1,21 +1,22 @@
 <html>
-  <head>
- <link real="icon" type="icon" herf="favicon.ico">
-   <title> this is my first site</title>
-   
-   </head>
-   <body>
-   <div id="header">
-    <table width="100%" border="1">
-      <tr>
-         <td width="40%">LOGO </td>
-         <td width="20%">home </td>
-         <td width="20%">about us </td>
-         <td width="20%"> context</td>
-       </tr>
-       </table>
-       </div>
-       
-       
-          </body>
-          </html>
+<head>
+<link rel="icon" href="favicon.ico" type="image/ico"><title>college website</title>
+</head>
+<body>
+<h1>this is your college</h1>
+<p>welcome to our college</p>
+<table>
+<tr>
+<td>vikrant singh</td>
+</tr>
+<td>
+<tr>vikrant singh</tr>
+</td>
+<iframe src="http://www.abes.ac.in" width="500px" height="800px">this</iframe>
+<p><strong>this</strong></p>
+<p><u></strong>is</p>
+<p><b></strong>vikrant</p>
+<p></strong>singh</p>
+</table>
+</body>
+</html>
